@@ -1,0 +1,4 @@
+services:
+#    wmc_user.example:
+#        class: WMCUserBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
